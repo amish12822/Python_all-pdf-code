@@ -22,3 +22,5 @@ elif status == "n3":
     print(f"{num} is not a prime number")   
 elif status == "n4" :
     print(f"{num} is a prime number") 
+
+# complete
