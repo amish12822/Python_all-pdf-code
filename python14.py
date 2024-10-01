@@ -11,7 +11,7 @@ if num >= 0:
             if num % x == 0:
                 status = "n3"
                 break
-            else:
+            else: 
                 status = "n4"
 else:
     print("Error: Enter Whole Number")  
